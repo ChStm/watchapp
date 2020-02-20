@@ -1,0 +1,1 @@
+<view class="content">home<button data-event-opts="{{[['tap',[['doSomething']]]]}}" bindtap="__e">需要登录权限的功能</button></view>
